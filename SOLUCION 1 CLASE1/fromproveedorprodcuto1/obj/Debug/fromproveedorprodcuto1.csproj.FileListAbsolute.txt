@@ -77,3 +77,6 @@ J:\SOLUCION 1 CLASE1\fromproveedorprodcuto1\obj\Debug\fromproveedorprodcuto1.MDI
 C:\Users\Fernando Zamora\Documents\SOLUCION 1 CLASE1\fromproveedorprodcuto1\bin\Debug\fromproveedorprodcuto1.exe.config
 C:\Users\Fernando Zamora\Documents\SOLUCION 1 CLASE1\fromproveedorprodcuto1\obj\Debug\fromproveedorprodcuto1.exe
 C:\Users\Fernando Zamora\Documents\SOLUCION 1 CLASE1\fromproveedorprodcuto1\obj\Debug\fromproveedorprodcuto1.pdb
+C:\Users\Fernando Zamora\Documents\GitHub\Product\SOLUCION 1 CLASE1\fromproveedorprodcuto1\bin\Debug\fromproveedorprodcuto1.exe.config
+C:\Users\Fernando Zamora\Documents\GitHub\Product\SOLUCION 1 CLASE1\fromproveedorprodcuto1\obj\Debug\fromproveedorprodcuto1.exe
+C:\Users\Fernando Zamora\Documents\GitHub\Product\SOLUCION 1 CLASE1\fromproveedorprodcuto1\obj\Debug\fromproveedorprodcuto1.pdb
